@@ -1,6 +1,5 @@
-# ECE17 Assignment 0 - Due Apr 5, 2020, 23:00 PDT
 
-The primary goal of this assignment is to get everyone familiar with the tools we will be using in the class. Specifically, your assignments will be completed using GitHub Classroom. If you are reading this README, you've already created your own repository for Assignment 0. The instructional staff of ECE17 can see this repository, but the rest of the world cannot (it's a private repo). This repository is sitting up on GitHub's servers and we've configured GitHub to provide automated testing of your repository. The tests are triggered whenever your update the repository up on GitHub.
+
 
 The general workflow will be to:
 
