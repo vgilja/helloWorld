@@ -1,5 +1,7 @@
 #include <iostream>
 
+# This code prints hello world messages in two ways 
+
 int main() {
     // Remember printf from C?
     printf("Hello, World, I'm back in C land.\n");
